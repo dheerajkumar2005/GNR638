@@ -1,5 +1,11 @@
 # GNR638 A3
 
+# Paper: 
+- SSD: Single Shot MultiBox Detector (https://arxiv.org/pdf/1512.02325v5)
+
+# Blog:
+- https://medium.com/@dheerajkumarmaradana/ssd-single-shot-multibox-detector-d7d570bbbe6f
+
 # Main files:
 - `ssd_from_scratch.py`: Implementation of SSD from scratch
 - `train_voc.py`: Training script for SSD on VOC dataset
